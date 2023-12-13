@@ -1,0 +1,9 @@
+Dict={1:"Hello",2:"Word"}
+print(Dict)
+Dict[3]="Good"
+Dict={4:"Morning"}
+Dict['value set']=22,23,24
+print("After assigning multiple value:",Dict)
+Dict[3]="Better"
+print(Dict.keys)
+print(Dict.values)
