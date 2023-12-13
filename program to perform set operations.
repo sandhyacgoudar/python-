@@ -1,0 +1,6 @@
+x={1,"Deepa",45}
+print(x)
+x.add("Vth sem")
+print(x)
+x.remove(45)
+print(x)
