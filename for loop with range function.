@@ -1,0 +1,5 @@
+n=input("enter message")
+for n in range (6):
+    print("Hi,")
+    print("Hello good morning")    
+    
