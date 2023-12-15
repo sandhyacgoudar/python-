@@ -1,0 +1,6 @@
+lang=['java','c','C++','linux']
+for x in lang:
+    print(x)
+print("out of loop")  
+for x in range (2,30,5)
+    print(x)
