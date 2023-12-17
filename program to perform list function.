@@ -1,0 +1,10 @@
+l1=[]
+print(l1)
+l1=[22,"Anu","Asha"]
+print(l1)
+print(type(l1))
+print(l1[0:3])
+l2=[123]
+print(l1+l2)
+print(l2*2)
+print(l1[-2])
