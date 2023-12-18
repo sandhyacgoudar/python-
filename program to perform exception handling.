@@ -1,0 +1,9 @@
+try:
+    l1=[2,4,6,8]
+    print(l1[6])
+except ZeroDivisionError:
+        print("Denominator cannot be zero")
+except IndexError:
+       print("Index out of bound")
+        
+    
