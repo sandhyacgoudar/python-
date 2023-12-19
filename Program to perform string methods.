@@ -1,0 +1,11 @@
+s1="Wellcome"
+s2="Hello World! "
+s3="----MyName----"
+print(s1.replace('W', 'H')) 
+print(s1.swapcase()) 
+print(s1.isalpha()) 
+print(s1.isalnum()) 
+print(s1.capitalize()) 
+print(s3.rstrip('-')) 
+print(s3.lstrip('e')) 
+print(s3.strip()) 
