@@ -1,0 +1,7 @@
+print(abs(-6.05))
+print(min(15,10)) 
+print(max(15,14)) 
+print(pow(2,3)) 
+s="Hello"
+print(len(s)) 
+print(divmod(6,3)) 
