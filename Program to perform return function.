@@ -1,0 +1,6 @@
+def cube(n):
+    x=n*n*n
+    return x
+a=int(input("Enter a value:")) 
+res=cube(a) 
+print(res) 
