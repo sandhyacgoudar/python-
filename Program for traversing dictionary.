@@ -1,0 +1,7 @@
+n1={0:'chat', 1:'fruit',2:'beverages'}
+for x in n1. keys():
+    print (x) 
+for y in n1. values ():
+    print(y) 
+for x, y in n1.items():
+    print (f"{x} is {y}") 
